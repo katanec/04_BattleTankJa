@@ -1,2 +1,2 @@
-# 04_BattleTankJa
+# BattleTankJa
 An open world simple tank fight.
